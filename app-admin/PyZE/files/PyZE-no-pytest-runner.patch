@@ -1,0 +1,12 @@
+diff --git a/setup.py b/setup.py
+index c4dc4b3..f93b124 100644
+--- a/setup.py
++++ b/setup.py
+@@ -22,7 +22,6 @@ setup(
+         'tzlocal'
+     ],
+     setup_requires=[
+-        'pytest-runner',
+     ],
+     tests_require=[
+         'pytest',
